@@ -6,7 +6,7 @@ import java.time.LocalTime;
 /**
  *
  
-@author Tanar*/
+@author Fülöp Ervin*/
 public class DatumEsIdo {
 
     public static void main(String[] args) {

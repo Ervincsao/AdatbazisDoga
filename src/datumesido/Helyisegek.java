@@ -6,7 +6,7 @@ import java.util.ArrayList;
 /**
  *
  
-@author Tanar*/
+@author Fülöp Ervin*/
 public class Helyisegek {
 
     List<Helyiseg> sorok;
